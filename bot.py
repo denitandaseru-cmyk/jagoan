@@ -19,7 +19,7 @@ from telegram.ext import (
 # CONFIG
 # ============================================================
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "ISI_BOT_TOKEN")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8673403574:AAHS6_JEjdbzDclLDrwaXR3LpJG9Qqkgo3A")
 OWNER_ID = int(os.getenv("OWNER_ID", "8861579841"))
 
 DB_FILE = "bot.db"
